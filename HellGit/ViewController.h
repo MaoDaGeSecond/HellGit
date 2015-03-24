@@ -11,6 +11,7 @@
 @interface ViewController : UIViewController
 
 @property (nonatomic,strong) UIButton *testBtn;
+@property (nonatomic,strong) UIButton *test2Btn;
 
 @end
 
