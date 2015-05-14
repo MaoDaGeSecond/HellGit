@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4014E84D1B04A68B0003CA2E /* 列表.png in Resources */ = {isa = PBXBuildFile; fileRef = 4014E84C1B04A68B0003CA2E /* 列表.png */; };
+		4014E84F1B04A7A00003CA2E /* 收藏.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4014E84E1B04A7A00003CA2E /* 收藏.jpg */; };
 		40A256701AC10DA800535039 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 40A2566F1AC10DA800535039 /* main.m */; };
 		40A256731AC10DA800535039 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 40A256721AC10DA800535039 /* AppDelegate.m */; };
 		40A256761AC10DA800535039 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 40A256751AC10DA800535039 /* ViewController.m */; };
@@ -29,6 +30,7 @@
 
 /* Begin PBXFileReference section */
 		4014E84C1B04A68B0003CA2E /* 列表.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "列表.png"; sourceTree = "<group>"; };
+		4014E84E1B04A7A00003CA2E /* 收藏.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "收藏.jpg"; sourceTree = "<group>"; };
 		40A2566A1AC10DA800535039 /* HellGit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HellGit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		40A2566E1AC10DA800535039 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		40A2566F1AC10DA800535039 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 			isa = PBXGroup;
 			children = (
 				4014E84C1B04A68B0003CA2E /* 列表.png */,
+				4014E84E1B04A7A00003CA2E /* 收藏.jpg */,
 				40A2566E1AC10DA800535039 /* Info.plist */,
 				40A2566F1AC10DA800535039 /* main.m */,
 			);
@@ -202,6 +205,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4014E84F1B04A7A00003CA2E /* 收藏.jpg in Resources */,
 				4014E84D1B04A68B0003CA2E /* 列表.png in Resources */,
 				40A256791AC10DA800535039 /* Main.storyboard in Resources */,
 				40A2567E1AC10DA800535039 /* LaunchScreen.xib in Resources */,
